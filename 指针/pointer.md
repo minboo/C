@@ -3,7 +3,7 @@
 //int main()
 //{
 //	int a = 10;
-//	//int* pa = &a;/
+//	//int* pa = &a;
 //	//char* pc = &a;
 //
 //	//char ch = 'w';
